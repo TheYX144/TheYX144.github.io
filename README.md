@@ -1,12 +1,12 @@
 # Games(Playable Online)
-### [EscapeErrorSimulator](theyx144.gihtub.io/EscapeErrorSimulator)
+### [EscapeErrorSimulator](EscapeErrorSimulator)
 
 <br>
 
-### [EscapeSleepParalysis](theyx144.github.io/EscapeSleepParalysis)
+### [EscapeSleepParalysis](EscapeSleepParalysis)
 
 <br>
 
-### [atari-breakout](theyx144.github.io/atari-breakout)
+### [atari-breakout](atari-breakout)
 
 <br>
