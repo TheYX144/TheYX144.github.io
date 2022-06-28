@@ -6,4 +6,4 @@
 <br>
 [atari-breakout](atari-breakout)
 <br>
-[3dMaze](3dMaze)
+[3dMaze](3dmaze)
